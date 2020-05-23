@@ -1,0 +1,11 @@
+('move', (10, 13))
+dotask
+dotask
+recharge
+('move', (27, 8))
+dotask
+recharge
+dotask
+('move', (10, 13))
+recharge
+dotask
